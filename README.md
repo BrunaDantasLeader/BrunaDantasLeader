@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bruna Dantas
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#, SQL Server, Bootstrap
+- 👋 Hi, I’m Bruna Dantas.
+- 👀 I’m interested in C#, Bootstrap, React TypeScript.
+- 🌱 I’m currently learning C#, SQL Server, Bootstrap.
 
 <!---
 BrunaDantasLeader/BrunaDantasLeader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
